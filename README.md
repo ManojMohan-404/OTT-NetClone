@@ -52,7 +52,7 @@ You only need a modern web browser (e.g., Chrome, Firefox, Safari).
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/ManojMohan-404/OTT-Homepage-NetClone.git
+    git clone https://github.com/ManojMohan-404/OTT-NetClone.git
     ```
 2.  Navigate to the project directory and open the `index.html` file in your browser.
 
