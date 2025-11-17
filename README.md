@@ -59,7 +59,7 @@ You only need a modern web browser (e.g., Chrome, Firefox, Safari).
 ## Project Structure
 
 ```
-netflix-clone/
+OTT-NetClone/
 ├── index.html          # The main HTML file containing the page structure.
 ├── style.css           # The CSS file for all styling and responsiveness.
 ├── images/             # Directory containing all images used in the project.
