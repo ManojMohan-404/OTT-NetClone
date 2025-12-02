@@ -1,4 +1,10 @@
 # Netflix Home Page Clone
+
+
+## Live Demo
+
+A live demo of the project can be found here: [Netflix Clone Demo](https://netclone-ott.netlify.app/)
+
 <br>
 
 ## Preview
